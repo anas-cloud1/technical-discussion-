@@ -8,4 +8,4 @@ This is a demo repo for sharing ideas around communication
 * Third
 
 ### Gist example 
-This is [my code] (https://gist.github.com/anas-cloud1/8fd2917388dbe62a3a9bd389f451265a) 
+This is [my code]  (https://gist.github.com/anas-cloud1/8fd2917388dbe62a3a9bd389f451265a) 
